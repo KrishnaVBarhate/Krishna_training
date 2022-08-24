@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp.csproj", "{6AC51B54-69C3-4205-9A6F-ACD1EEF8AE2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsLib", "..\MathsLib\MathsLib.csproj", "{9BD0300A-10A3-4491-A3D8-FAA887E376AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi1", "..\WebApi1\WebApi1.csproj", "{76FA8464-1584-49AB-B9EF-8BCC7EF2421B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC51B54-69C3-4205-9A6F-ACD1EEF8AE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC51B54-69C3-4205-9A6F-ACD1EEF8AE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC51B54-69C3-4205-9A6F-ACD1EEF8AE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC51B54-69C3-4205-9A6F-ACD1EEF8AE2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD0300A-10A3-4491-A3D8-FAA887E376AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD0300A-10A3-4491-A3D8-FAA887E376AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD0300A-10A3-4491-A3D8-FAA887E376AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD0300A-10A3-4491-A3D8-FAA887E376AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FA8464-1584-49AB-B9EF-8BCC7EF2421B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FA8464-1584-49AB-B9EF-8BCC7EF2421B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FA8464-1584-49AB-B9EF-8BCC7EF2421B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FA8464-1584-49AB-B9EF-8BCC7EF2421B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5AC5319-D532-4EA1-9AAF-416088584E6E}
+	EndGlobalSection
+EndGlobal
